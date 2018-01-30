@@ -964,6 +964,9 @@ input[type="button"]:focus {
       -ms-transform: translateY(-10px);
       transform: translateY(-10px); }
 
+.card-header {
+  color: white; }
+
 .wizard-card {
   min-height: 410px;
   box-shadow: 0 20px 16px -15px rgba(0, 0, 0, 0.57); }
@@ -1171,7 +1174,3 @@ input[type="button"]:focus {
 
   .btn-wd {
     min-width: 140px; } }
-
-.card-header {
-  background-color: red;
-}
