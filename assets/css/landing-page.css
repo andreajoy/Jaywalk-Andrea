@@ -1936,3 +1936,8 @@ img {
   background-color: #5624FF;
 }
 
+.coin-stack {
+	position: relative;
+	height: 180;
+	vertical-align: bottom;
+}
